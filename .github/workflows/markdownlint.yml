@@ -9,7 +9,7 @@ on:
 jobs:
   lint:
     name: Markdownlint
-    runs-on: ubuntu-20.4
+    runs-on: ubuntu-20.04
     steps:
       - name: Clone the repository
         uses: actions/checkout@v2
