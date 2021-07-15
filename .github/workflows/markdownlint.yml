@@ -3,8 +3,8 @@ name: Markdownlint
 on:
   push:
     paths:
-      - '.github/workflows/markdownlint.yml'
-      - 'README.md'
+      - .github/workflows/markdownlint.yml
+      - README.md
 
 jobs:
   lint:
