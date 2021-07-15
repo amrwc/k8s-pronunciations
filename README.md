@@ -1,5 +1,8 @@
 # K8s Pronunciations
 
+[![Markdownlint](https://github.com/amrwc/k8s-pronunciations/actions/workflows/markdownlint.yml/badge.svg?branch=main)](https://github.com/amrwc/k8s-pronunciations/actions/workflows/markdownlint.yml)
+[![Prettier](https://github.com/amrwc/k8s-pronunciations/actions/workflows/prettier.yml/badge.svg?branch=main)](https://github.com/amrwc/k8s-pronunciations/actions/workflows/prettier.yml)
+
 Some of the pronunciations that we've heard so far.
 
 ## Kubernetes
