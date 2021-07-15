@@ -12,7 +12,3 @@ Some of the pronunciations that we've heard so far.
 
 - _kay eights_
 - _kayghties_ (_keighties_)
-
-ssssssssssssssssssssssssssssss ddddddddddddddddddddddddddddddddddddd sssssssssssssssssssssssssssss
-ssssssssssssssssssssssssssssss ddddddddddddddddddddddddddddddddddddd sssssssssssssssssssssssssssss
-ssssssssssssssssssssssssssssss ddddddddddddddddddddddddddddddddddddd sssssssssssssssssssssssssssss
