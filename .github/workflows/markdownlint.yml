@@ -1,0 +1,20 @@
+name: Markdownlint
+
+on:
+  push:
+    paths:
+      - '.github/workflows/markdownlint.yml'
+      - 'README.md'
+
+jobs:
+  lint:
+    name: Markdownlint
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Clone the repository
+        uses: actions/checkout@v2
+
+      - name: Lint Markdown
+        uses: actionshub/markdownlint@main
+        with:
+          path: README.md
