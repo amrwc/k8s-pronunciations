@@ -23,5 +23,8 @@ jobs:
       - name: Run Prettier
         uses: creyD/prettier_action@v3.3
         with:
+          # This parameter prevents the Action from overwriting the file in-place. Also, it
+          # invalidates the `--write` Prettier option below.
           dry: true
-          prettier_options: '--check **/*.md'
+          # NOTE: Don't remove `--write` option. Otherwise, the pipeline won't fail on errors.
+          prettier_options: '--write **/*.md'
