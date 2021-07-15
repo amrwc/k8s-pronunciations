@@ -13,18 +13,8 @@ jobs:
     steps:
       - name: Clone the repository
         uses: actions/checkout@v2
-        with:
-          # Taken from the examples on: https://github.com/marketplace/actions/prettier-action
-          # Make sure the actual branch is checked out when running on pull requests
-          ref: ${{ github.head_ref }}
-          # This is important to fetch the changes to the previous commit
-          fetch-depth: 0
 
       - name: Run Prettier
-        uses: creyD/prettier_action@v3.3
+        uses: actionsx/prettier@v2
         with:
-          # This parameter prevents the Action from overwriting the file in-place. Also, it
-          # invalidates the `--write` Prettier option below.
-          dry: true
-          # NOTE: Don't remove `--write` option. Otherwise, the pipeline won't fail on errors.
-          prettier_options: '--write **/*.md'
+          args: --check **/*.md
