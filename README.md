@@ -7,6 +7,7 @@ Some of the pronunciations that we've heard so far.
 
 ## Kubernetes
 
+- _cube-ehr-ne-tees_
 - _koo-ber-na-tees_
 - _koo-ber-nate_
 - _koo-ber-nay-tays_
