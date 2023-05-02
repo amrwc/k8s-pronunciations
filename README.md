@@ -7,12 +7,12 @@ Some of the pronunciations that we've heard so far.
 
 ## Kubernetes
 
-- _cube-ehr-ne-tees_ &nbsp;/kjʊbɜːnəti:s/
-- _koo-ber-na-tees_ &nbsp;/ku:bɜːnæti:s/
-- _koo-ber-nate_ &nbsp;/ku:bɜːneɪt/
-- _koo-ber-nay-tays_ &nbsp;/ku:bɜːneɪteɪs/
-- _koo-ber-ne-tees_ &nbsp;/ku:bɜːnəti:s/
-- _koo-ber-ne-tehs_ &nbsp;/ku:bɜːnətɛs/
+- _cube-ehr-ne-tees_ &nbsp;/kjʊbɜ:nəti:s/
+- _koo-ber-na-tees_ &nbsp;/ku:bɜ:næti:s/
+- _koo-ber-nate_ &nbsp;/ku:bɜ:neɪt/
+- _koo-ber-nay-tays_ &nbsp;/ku:bɜ:neɪteɪs/
+- _koo-ber-ne-tees_ &nbsp;/ku:bɜ:nəti:s/
+- _koo-ber-ne-tehs_ &nbsp;/ku:bɜ:nətɛs/
 - _kee-ver-nee-tees_ &nbsp;/kivɛrnitis/ (the original Greek pronounciation of the word κυβερνήτης)
 
 ## K8s
