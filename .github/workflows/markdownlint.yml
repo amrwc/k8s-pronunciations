@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - .github/workflows/markdownlint.yml
-      - .markdownlint.jsonc
+      - .mdlrc
       - README.md
 
 jobs:
