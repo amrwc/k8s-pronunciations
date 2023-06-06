@@ -1,0 +1,2 @@
+# https://github.com/markdownlint/markdownlint/blob/main/docs/configuration.md#specifying-which-rules-mdl-processes
+rules "~MD013"

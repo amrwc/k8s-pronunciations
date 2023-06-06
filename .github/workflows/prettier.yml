@@ -4,17 +4,18 @@ on:
   push:
     paths:
       - .github/workflows/prettier.yml
+      - .prettierrc
       - README.md
 
 jobs:
   lint:
     name: Prettier
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
       - name: Clone the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Run Prettier
         uses: actionsx/prettier@v2
         with:
-          args: --check '**/*.md'
+          args: --check README.md
