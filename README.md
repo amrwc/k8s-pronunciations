@@ -13,7 +13,7 @@ Some of the pronunciations that we've heard so far.
 - _koo-ber-nay-tays_ &nbsp;/ku:bɜ:neɪteɪs/
 - _koo-ber-ne-tees_ &nbsp;/ku:bɜ:nəti:s/
 - _koo-ber-ne-tehs_ &nbsp;/ku:bɜ:nətɛs/
-- _kee-ver-nee-tees_ &nbsp;/kivɛrnitis/ (the original Greek pronounciation of the word κυβερνήτης)
+- _kee-ver-nee-tees_ &nbsp;/kivɛrnitis/ (the original Greek pronunciation of the word κυβερνήτης)
 
 ## K8s
 
