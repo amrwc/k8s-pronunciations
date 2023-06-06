@@ -1,7 +1,7 @@
 {
   "endOfLine": "lf",
   "printWidth": 79,
-  "proseWrap": "always",
+  "proseWrap": "preserve",
   "singleQuote": true,
   "tabWidth": 2,
   "useTabs": false
