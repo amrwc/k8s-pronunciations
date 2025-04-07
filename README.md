@@ -19,3 +19,4 @@ Some of the pronunciations that we've heard so far.
 
 - _kay-eights_&nbsp;/keɪ eɪts/
 - _kayghties_&nbsp;(_keighties_)&nbsp;/keɪti:s/
+- _cubes_&nbsp/kjʊbs/
